@@ -98,6 +98,19 @@ __Selenium__
 
 
 ### Bug reports and work in Jira
+### Samples :microscope:
+**1. Swag Lab E-Commerce Testing**
+* [Test plan](https://docs.google.com/document/d/1Nddj_G2YZ7flUxpEFzpL58PQbLEo29NT/edit?usp=drive_link&ouid=100062016594529214660&rtpof=true&sd=true)
+* [Test cases](https://docs.google.com/document/d/1obBYg-6bmxsXW05WEku2Z7R_r_DquGhnboqCt_j0A9E/edit?usp=drive_link)
+* [Bug report](https://docs.google.com/spreadsheets/d/1N0UNluPKfuGABzAiERWwAnW2OD1mKbVmq3zWGuOAJ8Q/edit?usp=drive_link)
+* [Test report](https://drive.google.com/file/d/10nz_hn8osQ20P3n1tEWSlKMcgNqtJ_yB/view?usp=drive_link)
+
+**2. Magento 2 API Testing**
+* [Test plan](https://docs.google.com/document/d/11GsYgNbW_-SMzW0foORqolgyGYhXk__5/edit?usp=drive_link&ouid=100062016594529214660&rtpof=true&sd=true)
+* [Scenario and test cases](https://docs.google.com/spreadsheets/d/1lCWVFviaHi4Q8tluyCWeMiH4a-cpWKqzjk7G3zJPfqA/edit?usp=sharing)
+* [Bug report](https://docs.google.com/spreadsheets/d/1Ztz3sgFs_pcBi3PXwAIu-MNxDDbJeHlPIpnPANpMmIA/edit?usp=sharing)
+* [Test report](https://drive.google.com/file/d/1pDDZ93CVt_WPvAae1AgnnMhsZjTb95iB/view?usp=drive_link)
+
 
 
 
