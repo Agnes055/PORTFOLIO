@@ -90,6 +90,8 @@ __Python_and_Selenium__
 * An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
 
 ### Test cases and work in TestLink
+* [Screenshot of Test cases using TestLink](https://drive.google.com/file/d/1MsISwDIWDfDEEXRVZrJKfhkfbWiMhe7i/view?usp=sharing)
+* [Screenshot of Requirement Specification using TestLink](https://drive.google.com/file/d/1LyY6lhXKoHKxiCpyDhwfRW7PsOx4NXMw/view?usp=sharing)
 
 ### Swag Lab E-Commerce Testing
 * [Test plan](https://docs.google.com/document/d/1Nddj_G2YZ7flUxpEFzpL58PQbLEo29NT/edit?usp=drive_link&ouid=100062016594529214660&rtpof=true&sd=true)
