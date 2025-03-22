@@ -3,8 +3,10 @@
 - [Skills](#skills)
 - [Tools](#tools)
 - [Samples of my work](#samples-of-my-work)
+  * [Bug reports and work in Jira and Zeyphr](#bug-reports-and-work-in-Jira-and-zeyphr)
   * [Test cases and work in TestLink](#test-cases-and-work-in-testlink)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
+  * [Swag Lab E-Commerce Testing](#swag-lab-e-Commerce-testing)
+  * [Magento 2 API Testing](#magento-2-API-testing)
 
 
 ## About me
@@ -89,7 +91,7 @@ __Python_and_Selenium__
 
 ### Test cases and work in TestLink
 
-**1. Swag Lab E-Commerce Testing**
+### Swag Lab E-Commerce Testing
 * [Test plan](https://docs.google.com/document/d/1Nddj_G2YZ7flUxpEFzpL58PQbLEo29NT/edit?usp=drive_link&ouid=100062016594529214660&rtpof=true&sd=true)
 * [Scenario and Test cases](https://docs.google.com/spreadsheets/d/128apwqLl17iE05PapHloWamrcP6kWkn7/edit?usp=sharing&ouid=100062016594529214660&rtpof=true&sd=true)
 * [Detailed HTML Test report from selenium python Automation](https://drive.google.com/file/d/1Z6cPiXJnPuSoOOnZbsZQfARjbvFD_3iC/view?usp=sharing)
@@ -97,7 +99,7 @@ __Python_and_Selenium__
 * [screenshot of detailed Allure Test report from selenium python Automation](https://drive.google.com/file/d/1dMt0UQpgvPjbTO2hO8Lo1HCkn2HurXpk/view?usp=sharing)
 * [Summary Alllure Test report from selenium python Automation](https://drive.google.com/file/d/13C4T5fH8_UDZuaHlbt1fxX5GiM0jzzqO/view?usp=sharing)
 
-**2. Magento 2 API Testing**
+### Magento 2 API Testing
 * [Test plan](https://docs.google.com/document/d/11GsYgNbW_-SMzW0foORqolgyGYhXk__5/edit?usp=drive_link&ouid=100062016594529214660&rtpof=true&sd=true)
 
 
