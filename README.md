@@ -56,14 +56,14 @@ __Python fundamentals__
 __Teselink__
   * know how to create test cases and test suits
   * able to run created test cases
-  * know how to use dashboards and statistics
+  * report generation
 
 __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
 
 __Zeyphr__
-  * manage test script
+  * managing test script
 
 __Trello and Notion__
   * know how to use Kanban boards and track project progress
