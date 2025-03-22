@@ -2,11 +2,10 @@
 - [About me](#about-me)
 - [Skills](#skills)
 - [Tools](#tools)
-- [Courses](#courses)
 - [Samples of my work](#samples-of-my-work)
   * [Test cases and work in TestLink](#test-cases-and-work-in-testlink)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-- [Books I have read](#books-i-have-read)
+
 
 ## About me
 
@@ -23,7 +22,7 @@ My goal is to help develop excellent, user-friendly software that satisfies user
 
 ## Skills
 
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
+You can find examples of the described skills in the [Samples of my work](#samples-of-my-work) section.
 
 __Manual testing__
   * can perform manual functional and usability testing of web applications
@@ -71,15 +70,10 @@ __JMeter__
   * for performance testing
 
 __Postman__
-  * know how to use Kanban boards and track project progress
+  * for API testing
 
-__Python__
-  * know how to use Kanban boards and track project progress
-
-__Selenium__
-  * know how to use Kanban boards and track project progress
-    
-## Courses
+__Python_and_Selenium__
+  * for Automation testing
 
 
 ## Samples of my work
@@ -95,21 +89,17 @@ __Selenium__
 
 ### Test cases and work in TestLink
 
-
-
-### Bug reports and work in Jira
-### Samples :microscope:
 **1. Swag Lab E-Commerce Testing**
 * [Test plan](https://docs.google.com/document/d/1Nddj_G2YZ7flUxpEFzpL58PQbLEo29NT/edit?usp=drive_link&ouid=100062016594529214660&rtpof=true&sd=true)
-* [Test cases](https://docs.google.com/document/d/1obBYg-6bmxsXW05WEku2Z7R_r_DquGhnboqCt_j0A9E/edit?usp=drive_link)
-* [Bug report](https://docs.google.com/spreadsheets/d/1N0UNluPKfuGABzAiERWwAnW2OD1mKbVmq3zWGuOAJ8Q/edit?usp=drive_link)
-* [Test report](https://drive.google.com/file/d/10nz_hn8osQ20P3n1tEWSlKMcgNqtJ_yB/view?usp=drive_link)
+* [Scenario and Test cases](https://docs.google.com/spreadsheets/d/128apwqLl17iE05PapHloWamrcP6kWkn7/edit?usp=sharing&ouid=100062016594529214660&rtpof=true&sd=true)
+* [Detailed HTML Test report from selenium python Automation](https://drive.google.com/file/d/1Z6cPiXJnPuSoOOnZbsZQfARjbvFD_3iC/view?usp=sharing)
+* [Summary HTML Test report from selenium python Automation](https://drive.google.com/file/d/1ZHqAj_L9wcUBhwhfFAqDPFo7JDtjeuBT/view?usp=sharing)
+* [screenshot of detailed Allure Test report from selenium python Automation](https://drive.google.com/file/d/1dMt0UQpgvPjbTO2hO8Lo1HCkn2HurXpk/view?usp=sharing)
+* [Summary Alllure Test report from selenium python Automation](https://drive.google.com/file/d/13C4T5fH8_UDZuaHlbt1fxX5GiM0jzzqO/view?usp=sharing)
 
 **2. Magento 2 API Testing**
 * [Test plan](https://docs.google.com/document/d/11GsYgNbW_-SMzW0foORqolgyGYhXk__5/edit?usp=drive_link&ouid=100062016594529214660&rtpof=true&sd=true)
-* [Scenario and test cases](https://docs.google.com/spreadsheets/d/1lCWVFviaHi4Q8tluyCWeMiH4a-cpWKqzjk7G3zJPfqA/edit?usp=sharing)
-* [Bug report](https://docs.google.com/spreadsheets/d/1Ztz3sgFs_pcBi3PXwAIu-MNxDDbJeHlPIpnPANpMmIA/edit?usp=sharing)
-* [Test report](https://drive.google.com/file/d/1pDDZ93CVt_WPvAae1AgnnMhsZjTb95iB/view?usp=drive_link)
+
 
 
 
