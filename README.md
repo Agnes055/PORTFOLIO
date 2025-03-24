@@ -27,8 +27,7 @@ My goal is to help develop excellent, user-friendly software that satisfies user
 You can find examples of my works in [Samples of my work](#samples-of-my-work) section.
 
 __Manual testing__
-  * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes
+  * can perform manual functional and usability testing of web applications 
 
 __Test analysis & design__
   * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
@@ -36,7 +35,6 @@ __Test analysis & design__
 
 __API testing__
   * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
   * know how to manipulate requests and create test cases using the SoapUI tool
 
 __Exploratory testing__
@@ -46,16 +44,16 @@ __Test documentation__
   * can create test cases and checklists and know how and in which situations to use them effectively
   * able to prepare comprehensive bug reports and provide detailed session reports
 
-__Python fundamentals__
+__Python & Selenium fundamentals__
   * can write simple functions and algorithms
-  * know when to use for and while
   * able to comprehend easy codes
+  * able to write automation test script
 
 ## Tools
 
 __Teselink__
-  * know how to create test cases and test suits
-  * able to run created test cases
+  * know how to create test plan, test cases and test suits
+  * able to excecute created test cases
   * report generation
 
 __Jira__
@@ -63,7 +61,7 @@ __Jira__
   * able to create projects and track their progress
 
 __Zeyphr__
-  * managing test script
+  * know how to write and manage test cases
 
 __Trello and Notion__
   * know how to use Kanban boards and track project progress
