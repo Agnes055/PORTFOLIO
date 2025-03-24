@@ -24,7 +24,7 @@ My goal is to help develop excellent, user-friendly software that satisfies user
 
 ## Skills
 
-You can find examples of the described skills in the [Samples of my work](#samples-of-my-work) section.
+You can find examples of my works in [Samples of my work](#samples-of-my-work) section.
 
 __Manual testing__
   * can perform manual functional and usability testing of web applications
