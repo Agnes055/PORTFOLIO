@@ -38,7 +38,7 @@ __API testing__
   * know how to manipulate requests and create test cases using the SoapUI tool
 
 __Exploratory testing__
-  * Exploring the use of Whittaker’s test tours and creating cheat-lists for testing web applications
+  * exploring the use of Whittaker’s test tours and creating cheat-lists for testing web applications
 
 __Test documentation__
   * can create test cases and checklists and know how and in which situations to use them effectively
