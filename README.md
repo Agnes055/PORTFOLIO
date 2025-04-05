@@ -51,7 +51,7 @@ __Python & Selenium fundamentals__
 
 ## Tools
 
-__Teselink__
+__Testlink__
   * know how to create test plan, test cases and test suits
   * able to excecute created test cases
   * report generation
