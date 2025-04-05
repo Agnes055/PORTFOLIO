@@ -80,9 +80,9 @@ __Python_and_Selenium__
 
 ### Bug reports and work in Jira and Zeyphr
 
-- Projects in Jira [parabank customer registration](https://parabank.parasoft.com/parabank/index.htm) 
-  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1pkL59J2LLU8Tj7LI_L7ynwq9EUqAXCgr/view?usp=sharing).
-  * Zeyphr Test Case #2. Check [the screenshot of Zeyphr test case in Jira](https://drive.google.com/file/d/1xhporxKmWnhcB57FXS-aypzUcuDIXzFW/view?usp=sharing).
+- Projects [parabank customer registration](https://parabank.parasoft.com/parabank/index.htm) 
+  * Bug. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1pkL59J2LLU8Tj7LI_L7ynwq9EUqAXCgr/view?usp=sharing).
+  * Zeyphr Test Case. Check [the screenshot of Zeyphr test case in Jira](https://drive.google.com/file/d/1xhporxKmWnhcB57FXS-aypzUcuDIXzFW/view?usp=sharing).
   * Zeyphr Report #1. Check [the PDF of Zeyphr summary report in Jira](https://drive.google.com/file/d/159ZCXOcBFH9MHZx9TI0vczi-gBKvEkZt/view?usp=sharing).
   * Zeyphr Report #2. Check [the PDF of Zeyphr detailed report in Jira](https://drive.google.com/file/d/159ZCXOcBFH9MHZx9TI0vczi-gBKvEkZt/view?usp=sharing).
 * An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
