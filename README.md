@@ -35,7 +35,7 @@ __Test analysis & design__
 
 __API testing__
   * know the difference between SOAP and REST APIs
-  * know how to manipulate requests and create test cases using the SoapUI tool
+  * know how to manipulate requests and create test cases using postman.
 
 __Exploratory testing__
   * exploring the use of Whittaker’s test tours and creating cheat-lists for testing web applications
