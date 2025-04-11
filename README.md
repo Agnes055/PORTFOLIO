@@ -15,7 +15,7 @@ I am a detail-oriented and passionate software tester with a strong background i
 
 I have tested various software applications, which has made me gain expertise in manual testing and automation in additions to API, functional, regression, and performance testing, to deliver robust and about 95% bug-free software products.
 
-My  troubleshooting and problem-solving skills, combined with an understanding of Agile methodology, Software Development Lifecycle (SDLC) and various testing tools and frameworks, handle challenging projects with accuracy and efficiency. I collaborate with developers and other team members to ensure deployment of software on time. 
+My  troubleshooting and problem-solving skills, combined with an understanding of Agile methodology, Software Development Lifecycle (SDLC) and various testing tools and frameworks, helps me to handle challenging projects with accuracy and efficiency. I collaborate with developers and other team members to ensure deployment of software on time. 
 To keep up with the rapidly evolving technology landscape, I am keen on learning new technologies and continuously improve my skills. 
 
 My goal is to help develop excellent, user-friendly software that satisfies user expectations and technological requirements.
@@ -67,7 +67,7 @@ __Trello and Notion__
   * know how to use Kanban boards and track project progress
 
 __JMeter__
-  * for performance testing
+  * for performance and load testing
 
 __Postman__
   * for API testing
