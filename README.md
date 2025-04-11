@@ -13,7 +13,7 @@
 
 I am a detail-oriented and passionate software tester with a strong background in ensuring the quality and reliability of software applications. With my strong understanding of the software testing methodology, I am meticulous and focus on identifying potential issues before they impact the end-user experience. I have a degree in information Technology.
 
-Over two years in the industry, I have tested various software applications, which has made me gain expertise in manual testing and automation in additions to API, functional, regression, and performance testing, to deliver robust and about 95% bug-free software products.
+I have tested various software applications, which has made me gain expertise in manual testing and automation in additions to API, functional, regression, and performance testing, to deliver robust and about 95% bug-free software products.
 
 My  troubleshooting and problem-solving skills, combined with an understanding of Agile methodology, Software Development Lifecycle (SDLC) and various testing tools and frameworks, handle challenging projects with accuracy and efficiency. I collaborate with developers and other team members to ensure deployment of software on time. 
 To keep up with the rapidly evolving technology landscape, I am keen on learning new technologies and continuously improve my skills. 
