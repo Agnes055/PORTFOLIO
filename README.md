@@ -76,6 +76,8 @@ __Postman__
 __Python_and_Selenium__
   * for Automation testing
 
+__Playwright__
+  * Exploring playwright for Automation testing
 
 ## Samples of my work
 
