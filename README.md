@@ -93,7 +93,7 @@ __Python_and_Selenium__
 * [Screenshot of Requirement Specification using TestLink](https://drive.google.com/file/d/1LyY6lhXKoHKxiCpyDhwfRW7PsOx4NXMw/view?usp=sharing)
 
 ### Swag Lab E-Commerce Testing
-* [Test plan](https://docs.google.com/document/d/1Nddj_G2YZ7flUxpEFzpL58PQbLEo29NT/edit?usp=sharing&ouid=100062016594529214660&rtpof=true&sd=true)
+* [Test plan](https://docs.google.com/document/d/1Nddj_G2YZ7flUxpEFzpL58PQbLEo29NT/edit?usp=drive_link&ouid=100062016594529214660&rtpof=true&sd=true)
 * [Scenario and Test cases](https://docs.google.com/spreadsheets/d/128apwqLl17iE05PapHloWamrcP6kWkn7/edit?usp=sharing&ouid=100062016594529214660&rtpof=true&sd=true)
 * [Automation Test Script](https://github.com/Agnes055/work_sample/tree/9e9a863be07e783559530ca1735ad3068b909cf4/Selenium_pyAutomation_Tutorial/e_commerce)
 * [Detailed HTML Test report from selenium python Automation](https://drive.google.com/file/d/1Z6cPiXJnPuSoOOnZbsZQfARjbvFD_3iC/view?usp=sharing)
