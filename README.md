@@ -6,7 +6,8 @@
   * [Bug reports and work in Jira and Zeyphr](#bug-reports-and-work-in-Jira-and-zeyphr)
   * [Test cases and work in TestLink](#test-cases-and-work-in-testlink)
   * [Swag Lab E-Commerce Testing](#swag-lab-e-Commerce-testing)
-  * [Magento 2 API Testing](#magento-2-API-testing)
+  * [JMeter Test with BlazeDemo](#JMeter-Test-with-BlazeDemo)
+  * [API Test with Fake Store API](#API-Test-with-Fake-Store-API)
 
 
 ## About me
@@ -94,14 +95,17 @@ __Python_and_Selenium__
 ### Swag Lab E-Commerce Testing
 * [Test plan](https://docs.google.com/document/d/1Nddj_G2YZ7flUxpEFzpL58PQbLEo29NT/edit?usp=drive_link&ouid=100062016594529214660&rtpof=true&sd=true)
 * [Scenario and Test cases](https://docs.google.com/spreadsheets/d/128apwqLl17iE05PapHloWamrcP6kWkn7/edit?usp=sharing&ouid=100062016594529214660&rtpof=true&sd=true)
-* [Automation Test Script](https://github.com/Agnes055/Automationproject/tree/3f5ff3ee6419b5144823d48de74920dacdcc6450/First_Automation_Tutorial/e_commerce)
+* [Automation Test Script](https://github.com/Agnes055/work_sample/tree/9e9a863be07e783559530ca1735ad3068b909cf4/Selenium_pyAutomation_Tutorial/e_commerce)
 * [Detailed HTML Test report from selenium python Automation](https://drive.google.com/file/d/1Z6cPiXJnPuSoOOnZbsZQfARjbvFD_3iC/view?usp=sharing)
 * [Summary HTML Test report from selenium python Automation](https://drive.google.com/file/d/1ZHqAj_L9wcUBhwhfFAqDPFo7JDtjeuBT/view?usp=sharing)
 * [screenshot of detailed Allure Test report from selenium python Automation](https://drive.google.com/file/d/1dMt0UQpgvPjbTO2hO8Lo1HCkn2HurXpk/view?usp=sharing)
 * [Summary Alllure Test report from selenium python Automation](https://drive.google.com/file/d/13C4T5fH8_UDZuaHlbt1fxX5GiM0jzzqO/view?usp=sharing)
 
-### Magento 2 API Testing
-* [Test plan](https://docs.google.com/document/d/11GsYgNbW_-SMzW0foORqolgyGYhXk__5/edit?usp=drive_link&ouid=100062016594529214660&rtpof=true&sd=true)
+### JMeter Test with BlazeDemo.
+* [JMeter Test sample](https://github.com/Agnes055/work_sample/tree/9e9a863be07e783559530ca1735ad3068b909cf4/jmeterworksample)
+
+### API Test with Fake Store API.
+* [API Test sample](https://github.com/Agnes055/work_sample/tree/9e9a863be07e783559530ca1735ad3068b909cf4/API_Tutorial)
 
 
 
